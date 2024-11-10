@@ -1,5 +1,18 @@
 #!/bin/bash
 installation of tool 
+author="-ARYAN JOSHI"
+# Fsociety ASCII art
+fsociety_ascii="
+\e[31m ___________                 .__        __          \e[0m
+\e[31m\_   _____/_________   ____ |__| _____/  |_ ___.__.\e[0m
+\e[31m |    __)/  ___/  _ \_/ ___\|  |/ __ \   __<   |  |\e[0m
+\e[31m |     \ \___ (  <_> )  \___|  \  ___/|  |  \___  |\e[0m
+\e[31m \___  //____  >____/ \___  >__|\___  >__|  / ____|\e[0m
+\e[31m     \/      \/           \/        \/      \/     \e[0m
+                                              - ARYAN JOSHI
+"
+
+echo -e "$fsociety_ascii"
 
 # Define some color codes for terminal output
 RESET='\033[0m'
@@ -73,7 +86,7 @@ author="ARYAN JOSHI"
 
 # Function to print the ASCII Art and additional information
 print_ascii_art() {
-  echo -e "${red}    _____                                  _________        ___."
+  echo -e "${red}   _____                                  _________        ___."
   echo -e "${cyan}  /  _  \  _____ ___.__._____    ____     \_   ___ \___.__.\_ |__"
   echo -e "${yellow} /  /_\\  \_  __ <   |  |\\__  \  /    \    /    \  \<   |  | | __"
   echo -e "${blue}/    |    \  | \/\___  | / __ \|   |  \   \     \___\___  | | \\_\\"
