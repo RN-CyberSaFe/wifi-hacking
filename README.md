@@ -1,7 +1,7 @@
 #WIFI HACKING TOOL 🐱‍💻 »
 
 <p align="center">
-  <img src="./image/preview.png">
+  <img src="https://github.com/RN-CyberSaFe/wifi-hacking/blob/main/Image/preview.png">
 </p>
 
 
