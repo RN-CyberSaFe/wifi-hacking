@@ -1,7 +1,7 @@
 #WIFI HACKING TOOL 🐱‍💻 »
 
 <p align="center">
-  <img src="./images/duckmenu.png">
+  <img src="./images/preview.png">
 </p>
 
 
