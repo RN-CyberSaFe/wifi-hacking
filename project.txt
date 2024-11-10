@@ -1,0 +1,25 @@
+# Project Title: [wifihacking]
+This is a brief description of your project. Explain what your tool does, its purpose, and any key features.
+
+## Installation Instructions
+How to install and set up the project:
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/yourproject.git
+2. Navigate to the project directory:
+   cd Tool
+3. Install dependencies (if applicable):
+  > nothing to do the code will download automatically  
+  
+4. Run the tool:
+   chmod +x wifihacking.sh
+./wifihacking.sh
+
+---
+
+## License Information
+
+The following is the licensing information for this project.
+
+### MIT License (or Apache 2.0, GPL, etc.)
+If you choose the MIT License, include the full text of the license here. Example:
